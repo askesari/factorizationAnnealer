@@ -48,7 +48,7 @@ The following command can be used to install D-Wave Ocean SDK APIs
 
 ## Author(s)
 
-Amit Shashikant Kesari
+Amit Shashikant Kesari, D Venkata Aravind 
 
 ## License
 [Apache2.0](https://opensource.org/licenses/Apache-2.0)
