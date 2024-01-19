@@ -27,7 +27,7 @@ outputfilepath = curr_dir_path + "/output"
 if not os.path.exists(outputfilepath):
     os.makedirs(outputfilepath)
 
-dwaveSampler = EmbeddingComposite(DWaveSampler(token='DEV-2b6aaf6befed194c79f3d4f224a1c7841083c416'))
+dwaveSampler = EmbeddingComposite(DWaveSampler(token='<enter appropriate token>'))
 solver_greedy = SteepestDescentSolver()
 
 ## initialize logger
